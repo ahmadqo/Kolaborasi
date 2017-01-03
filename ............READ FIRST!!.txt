@@ -1,0 +1,4 @@
+1. Nama folder jangan dirubah, tetap PAW.
+2. Buat dbase "profil" di localhost, import file "profil.sql" 
+   karena tabelnya ndak aku buat otomatis di koneksi
+3. Login uname/pass : admin 
