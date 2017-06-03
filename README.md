@@ -1,4 +1,3 @@
 # Dokumentasi Kolaborasi Ahmad Qomaruddin 145410028
 ### ahmadqo (upstream)
-### qomzero (kontributor)
-### 
+### qomzero (kontributor) 
